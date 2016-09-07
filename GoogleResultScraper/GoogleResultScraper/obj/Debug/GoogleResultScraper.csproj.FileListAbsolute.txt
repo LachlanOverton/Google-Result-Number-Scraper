@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\obj\Debug\WindowsFormsApplication1.zGoogleResultScraper.resources
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\obj\Debug\GoogleResultScraper.csproj.GenerateResource.Cache
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\bin\Debug\WindowsFormsApplication1.pdb

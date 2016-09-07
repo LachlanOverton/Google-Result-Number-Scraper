@@ -1,0 +1,12 @@
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SearchList.txt
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.zGoogleResultScraper.resources
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\zGoogleResultScraper.csproj.GenerateResource.Cache
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

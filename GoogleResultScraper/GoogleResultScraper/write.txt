@@ -1,0 +1,92 @@
+aerodynamics 12,000,000 results
+agronomy 12,100,000 results
+anatomy 157,000,000 results
+anthropology 51,700,000 results
+archaeology 62,000,000 results
+astronomy 89,000,000 results
+atmospheric sciences 4,120,000 results
+bacteriology 4,480,000 results
+biochemistry 65,300,000 results
+biology 306,000,000 results
+biophysics 10,400,000 results
+botany 39,200,000 results
+cartography 12,600,000 results
+chemistry 403,000,000 results
+climatology 3,990,000 results
+computer science 463,000,000 results
+cosmology 11,100,000 results
+criminology 14,100,000 results
+dermatology 59,000,000 results
+developmental biology 4,560,000 results
+earth sciences 114,000,000 results
+ecology 122,000,000 results
+economics 405,000,000 results
+embryology 5,210,000 results
+entomology 11,100,000 results
+epidemiology 40,300,000 results
+ergonomics 23,200,000 results
+ethnology 4,540,000 results
+evolutionary biology 6,550,000 results
+exobiology 221,000 results
+forestry 83,500,000 results
+genetics 121,000,000 results
+genomics 30,900,000 results
+geology 78,000,000 results
+geophysics 12,900,000 results
+gerontology 9,470,000 results
+glaciology 626,000 results
+hematology 25,800,000 results
+herpetology 1,460,000 results
+histology 21,000,000 results
+horticulture 36,800,000 results
+hydrology 11,300,000 results
+ichthyology 1,110,000 results
+immunology 37,600,000 results
+inorganic chemistry 13,000,000 results
+kinesiology 10,300,000 results
+kinetics 47,000,000 results
+linguistics 42,300,000 results
+marine biology 6,530,000 results
+materials science 37,800,000 results
+mechanics 190,000,000 results
+metallurgy 41,200,000 results
+meteorology 19,400,000 results
+microbiology 54,600,000 results
+mineralogy 5,900,000 results
+molecular biology 66,900,000 results
+morphology 46,500,000 results
+neurology 58,300,000 results
+neuroscience 40,600,000 results
+nuclear physics 5,600,000 results
+nutrition 392,000,000 results
+oceanography 11,900,000 results
+oncology 66,500,000 results
+optics 117,000,000 results
+organic chemistry 83,700,000 results
+ornithology 4,130,000 results
+paleontology 7,380,000 results
+parasitology 5,280,000 results
+pathology 87,000,000 results
+petrology 2,350,000 results
+physics 279,000,000 results
+physiology 87,300,000 results
+political science 158,000,000 results
+psychology 283,000,000 results
+quantum chemistry 8,440,000 results
+quantum physics 6,170,000 results
+radiology 55,400,000 results
+robotics 97,400,000 results
+seismology 3,400,000 results
+sociobiology 977,000 results
+sociology 71,700,000 results
+taxonomy 67,200,000 results
+tectonics 5,570,000 results
+thermodynamics 19,900,000 results
+toxicology 25,400,000 results
+urology 34,000,000 results
+virology 8,540,000 results
+volcanology 1,370,000 results
+vulcanology 112,000 results
+xenobiology 115,000 results
+xylology 14,000 results
+zoology 26,500,000 results
