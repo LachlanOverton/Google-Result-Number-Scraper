@@ -9,3 +9,6 @@ C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\Googl
 C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\obj\Debug\GoogleResultScraper.csproj.GenerateResource.Cache
 C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\bin\Debug\WindowsFormsApplication1.exe
 C:\Users\Lachlan\Documents\Visual Studio 2015\Projects\GoogleResultScraper\GoogleResultScraper\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lachlan\Documents\GitHub\Google-Result-Number-Scraper\GoogleResultScraper\GoogleResultScraper\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Lachlan\Documents\GitHub\Google-Result-Number-Scraper\GoogleResultScraper\GoogleResultScraper\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lachlan\Documents\GitHub\Google-Result-Number-Scraper\GoogleResultScraper\GoogleResultScraper\obj\Debug\WindowsFormsApplication1.pdb

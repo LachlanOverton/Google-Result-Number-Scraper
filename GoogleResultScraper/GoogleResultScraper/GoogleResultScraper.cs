@@ -29,8 +29,6 @@ namespace WindowsFormsApplication1
         void everything()
         {
             string searchterms = "https://www.google.com.au/search?q=";
-            //string[] lines = System.IO.File.ReadAllLines(@"c:\users\lachlan\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\animals.txt");
-            //Uri u = new Uri("pack://siteoforigin:,,,/animals.txt", UriKind.RelativeOrAbsolute);
             string[] lines = System.IO.File.ReadAllLines(@"SearchList.txt");
             string webreq;
             string getpage = "";
