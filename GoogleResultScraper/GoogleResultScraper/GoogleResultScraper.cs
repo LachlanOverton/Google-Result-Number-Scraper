@@ -13,6 +13,12 @@ using System.Diagnostics;
 
 namespace WindowsFormsApplication1
 {
+
+    /*
+     TODO: 
+     Add ability to choose text files through UI and store results properly
+     Add comments
+         */
     public partial class zGoogleResultScraper : Form
     {
         public zGoogleResultScraper()
@@ -28,14 +34,18 @@ namespace WindowsFormsApplication1
 
         void everything()
         {
+            //request string
             string searchterms = "https://www.google.com.au/search?q=";
+            //Loads search terms into an array
             string[] lines = System.IO.File.ReadAllLines(@"SearchList.txt");
             string webreq;
             string getpage = "";
             int i = 0;
+            //previous results need to be saved.
             string[] result = new string[lines.Length];
             string[] count = new string[1];
             count[0] = "0";
+            //how many completed requests there were last time
             count = System.IO.File.ReadAllLines(@"count.txt");
 
 
